@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "functions": {
-    "api/astro-advisor.js": { "runtime": "nodejs18.x" },
-    "api/hello.js": { "runtime": "nodejs18.x" }
-  }
-}
